@@ -1,0 +1,16 @@
+D:\Guia .NET Core\ExerciciosCSharp04TryCatch\ExerciciosCSharp04TryCatch\bin\Debug\net5.0\ExerciciosCSharp04TryCatch.exe
+D:\Guia .NET Core\ExerciciosCSharp04TryCatch\ExerciciosCSharp04TryCatch\bin\Debug\net5.0\ExerciciosCSharp04TryCatch.deps.json
+D:\Guia .NET Core\ExerciciosCSharp04TryCatch\ExerciciosCSharp04TryCatch\bin\Debug\net5.0\ExerciciosCSharp04TryCatch.runtimeconfig.json
+D:\Guia .NET Core\ExerciciosCSharp04TryCatch\ExerciciosCSharp04TryCatch\bin\Debug\net5.0\ExerciciosCSharp04TryCatch.runtimeconfig.dev.json
+D:\Guia .NET Core\ExerciciosCSharp04TryCatch\ExerciciosCSharp04TryCatch\bin\Debug\net5.0\ExerciciosCSharp04TryCatch.dll
+D:\Guia .NET Core\ExerciciosCSharp04TryCatch\ExerciciosCSharp04TryCatch\bin\Debug\net5.0\ref\ExerciciosCSharp04TryCatch.dll
+D:\Guia .NET Core\ExerciciosCSharp04TryCatch\ExerciciosCSharp04TryCatch\bin\Debug\net5.0\ExerciciosCSharp04TryCatch.pdb
+D:\Guia .NET Core\ExerciciosCSharp04TryCatch\ExerciciosCSharp04TryCatch\obj\Debug\net5.0\ExerciciosCSharp04TryCatch.csproj.AssemblyReference.cache
+D:\Guia .NET Core\ExerciciosCSharp04TryCatch\ExerciciosCSharp04TryCatch\obj\Debug\net5.0\ExerciciosCSharp04TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Guia .NET Core\ExerciciosCSharp04TryCatch\ExerciciosCSharp04TryCatch\obj\Debug\net5.0\ExerciciosCSharp04TryCatch.AssemblyInfoInputs.cache
+D:\Guia .NET Core\ExerciciosCSharp04TryCatch\ExerciciosCSharp04TryCatch\obj\Debug\net5.0\ExerciciosCSharp04TryCatch.AssemblyInfo.cs
+D:\Guia .NET Core\ExerciciosCSharp04TryCatch\ExerciciosCSharp04TryCatch\obj\Debug\net5.0\ExerciciosCSharp04TryCatch.csproj.CoreCompileInputs.cache
+D:\Guia .NET Core\ExerciciosCSharp04TryCatch\ExerciciosCSharp04TryCatch\obj\Debug\net5.0\ExerciciosCSharp04TryCatch.dll
+D:\Guia .NET Core\ExerciciosCSharp04TryCatch\ExerciciosCSharp04TryCatch\obj\Debug\net5.0\ref\ExerciciosCSharp04TryCatch.dll
+D:\Guia .NET Core\ExerciciosCSharp04TryCatch\ExerciciosCSharp04TryCatch\obj\Debug\net5.0\ExerciciosCSharp04TryCatch.pdb
+D:\Guia .NET Core\ExerciciosCSharp04TryCatch\ExerciciosCSharp04TryCatch\obj\Debug\net5.0\ExerciciosCSharp04TryCatch.genruntimeconfig.cache
