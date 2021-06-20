@@ -9,7 +9,7 @@ namespace ExerciciosCSharp04TryCatch
         {
             try
             {
-                int[] exercicios = new int[] { 21, 22};
+                int[] exercicios = new int[] { 21, 22, 23, 24};
                 Console.WriteLine("Escolha o número do exercício: ");
                 foreach(int i in exercicios)
                 {
@@ -25,6 +25,14 @@ namespace ExerciciosCSharp04TryCatch
                     case "22":
                         Console.Clear();
                         Exercicio22 exercicio22 = new Exercicio22();
+                        break;
+                    case "23":
+                        Console.Clear();
+                        Exercicio23 exercicio23 = new Exercicio23();
+                        break;
+                    case "24":
+                        Console.Clear();
+                        Exercicio24 exercicio24 = new Exercicio24();
                         break;
 
                     default:
